@@ -1,3 +1,3 @@
 # WeatherApp
 
-Try it - ```https://patrykpanek.github.io/WeatherApp/```
+Try it - https://patrykpanek.github.io/WeatherApp/
